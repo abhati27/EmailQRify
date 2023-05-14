@@ -5,15 +5,19 @@ EmailQRify is a Flutter application that allows users to validate email addresse
 ## Screenshots
 
 <img width="379" alt="Screen Shot 2023-05-14 at 2 07 03 PM" src="https://github.com/abhati27/EmailQRify/assets/60200047/b6e2ed16-7620-48cb-b125-ae21b732041d">
+
 Introduction Screen
 
 <img width="376" alt="Screen Shot 2023-05-14 at 2 07 20 PM" src="https://github.com/abhati27/EmailQRify/assets/60200047/5ec024b6-5da6-4b65-a8cf-03d27186c643">
+
 Validation Screen
 
 <img width="377" alt="Screen Shot 2023-05-14 at 2 07 55 PM" src="https://github.com/abhati27/EmailQRify/assets/60200047/9d94d174-3b9a-44c2-bdd3-b26128d78d03">
+
 Vaidation Screen with valid email
 
 <img width="380" alt="Screen Shot 2023-05-14 at 2 08 12 PM" src="https://github.com/abhati27/EmailQRify/assets/60200047/c2e5e059-f131-4b37-ad74-a598a8fa5d1e">
+
 Generated QR Screen
 
 ## Features
