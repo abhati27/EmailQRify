@@ -2,6 +2,8 @@
 
 EmailQRify is a Flutter application that allows users to validate email addresses, generate QR codes, and enhance social networking. This README file provides an overview of the application and its features.
 
+app demo video: https://youtube.com/shorts/59ojSdhDpZE?feature=share
+
 ## Features
 * Introduction Screen: The application starts with an engaging tutorial screen that provides an introduction to EmailQRify's functionality and features.
 * Email Validator: The main feature of the application is the email validator screen. It presents a visually appealing glass pane-like UI, where users can enter an email address. The interface includes a box below that displays whether the email is valid or not. The user can only click the QR code button if the email is valid.
